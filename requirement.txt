@@ -1,0 +1,9 @@
+pip install streamlit
+pip install os 
+
+pip install SpeechRecognition
+
+pip install librosa 
+pip install textblob
+
+
